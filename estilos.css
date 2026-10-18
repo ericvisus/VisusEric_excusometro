@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    color: #222222;
+    margin: 0;
+}
+
+header {
+    background-color: #29465b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #172d3d;
+    text-align: center;
+    padding: 12px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+main {
+    width: 85%;
+    margin: 20px auto;
+}
+
+section {
+    background-color: white;
+    padding: 18px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #29465b;
+}
+
+.excusa {
+    background-color: #f5f5f5;
+    border-left: 4px solid #e0b84f;
+    padding: 10px;
+    margin: 12px 0;
+}
+
+footer {
+    background-color: #172d3d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
